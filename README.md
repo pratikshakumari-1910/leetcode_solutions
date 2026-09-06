@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0523-continuous-subarray-sum](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
