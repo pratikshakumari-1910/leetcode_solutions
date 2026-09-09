@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0523-continuous-subarray-sum](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
