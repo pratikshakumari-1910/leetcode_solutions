@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
