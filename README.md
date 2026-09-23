@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
