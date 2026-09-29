@@ -1,39 +1,30 @@
 class Solution {
 public: 
-    int t[1001][1001];
-    bool checkPal(string &s, int i, int j)
-    {
-        if(i>j)
-            return true;
-
-        if (t[i][j] != -1)
-        {
-            return t[i][j];
-        }
-
-        if(s[i]==s[j])
-        {
-           return t[i][j] = checkPal(s,i+1,j-1);
-        }
-        return t[i][j] = false;
-    }
     int countSubstrings(string s) {
         int n = s.size();
-        memset(t,-1,sizeof(t));
-        //t[i][j] = -1 (not solved yet)
-        //t[i][j] = 0 false 
-        //t[i][j] = 1 true
-        int count = 0;
-        for(int i=0;i<n;i++)
+        vector<vector<bool>>t(n, vector<bool>(n,false));
+        //STATE - t[i][j] = true : s[i:j] is a palindromic substring where i and j are inclusive indices
+        int count =0;
+        for(int L = 1; L<=n; L++)
         {
-            for(int j=i;j<n;j++)
+            for(int i=0;i+L-1<n;i++)
             {
-                if(checkPal(s,i,j))
+                int j = i+L-1;
+                if(i==j)
+                   t[i][j] = true;
+                else if(i+1 == j)
                 {
-                    count++;
+                    t[i][j] = (s[i] == s[j]);
                 }
+                else
+                {
+                    t[i][j]=(s[i] == s[j] && t[i+1][j-1]);
+                }
+
+                if(t[i][j]==true)
+                    count++;
             }
         }
         return count;
-    }    
+    }
 };
