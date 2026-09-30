@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pratikshakumari-1910/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
